@@ -1,0 +1,2 @@
+week1
+We created the group on WebCms called DataNoob, set up Jira and Github. Also we decided the topic of the project is the Event Pro, we held a meeting about everyone's job and duty like use Flask for back-end React for front-end more details will be determined later.
