@@ -1,13 +1,15 @@
 ## Week 1
  - **Group formation and assignment**  
  
- We have allocated tasks successfully, the details shown below
+ We have allocated tasks successfully, the details shown below  
  
  ![](../Source/works.png)
+ 
  	- Coding Part
  		- Front end: Shengdong FU & Heqi Sun
  		- Back end: Sijie Hou, Liangwei Jia & Hanming Yin
  		- Test: Hanming Yin
+ 		
  	- Project Part
  		- Report: Shengdong Fu
  		- Jira: Sijie Hou
@@ -15,7 +17,7 @@
  
  - **Confirmation on programming language and framework**
  
- After fully discussing, we decided to utilize:
+ After fully discussing, we decided to utilize:  
  	- Front end: React based on Json
  	- Back end: Flask based on Python
  	- Databse: Sqlite
