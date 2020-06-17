@@ -1,2 +1,4 @@
 week 1
 confirm the requirement of the project and learn some base knowledge of React.
+week 2
+build the framework of front end,sign in page,register page, home page ,user page and so on
